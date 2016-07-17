@@ -1,3 +1,3 @@
 # joyjing1.github.io
-[Joy Jing's Portfolio][gh-pages]
+[Joy Jing's Developer Profile][gh-pages]
 [gh-pages]: https://joyjing1.github.io/
